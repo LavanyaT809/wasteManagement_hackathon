@@ -17,22 +17,19 @@ const Hero = () => {
         <div className="max-w-3xl">
           <div className="border-l-4 border-warning-orange pl-6 mb-8">
             <h1 className="text-5xl md:text-6xl font-bold text-white mb-6 leading-tight">
-              Waste Management<br />
-              <span className="text-warning-orange">Dumpster Rentals</span><br />
-              Garbage Pickup.
+              AI-Powered <span className="text-warning-orange">Waste Solutions</span> at Your Fingertips
             </h1>
           </div>
           
           <p className="text-xl text-white/90 mb-8 max-w-2xl">
-            Professional waste management services for residential and commercial needs. 
-            Eco-friendly solutions for a cleaner, greener tomorrow.
+            Identify, segregate, and recycle waste with AI-powered guidance. Connect with local NGOs and make your city cleaner, greener, and smarter.
           </p>
           
           <div className="flex flex-col sm:flex-row gap-4">
             <Button variant="hero" size="lg" className="bg-warning-orange hover:bg-warning-orange/90">
               Explore Our Services
             </Button>
-            <Button variant="outline" size="lg" className="border-white text-white hover:bg-white hover:text-eco-dark">
+            <Button variant="outline" size="lg" className="border-white text-white bg-transparent hover:bg-white hover:text-eco-dark">
               More About Us
             </Button>
           </div>

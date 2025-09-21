@@ -1,6 +1,5 @@
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
-import { Separator } from "@/components/ui/separator";
 import { 
   Phone, 
   Mail, 
@@ -72,15 +71,15 @@ const Footer = () => {
               </div>
               <div className="flex items-center space-x-3">
                 <Phone className="h-4 w-4 text-warning-orange" />
-                <span className="text-gray-300">+1234567890</span>
+                <span className="text-gray-300">xyz</span>
               </div>
               <div className="flex items-center space-x-3">
                 <Mail className="h-4 w-4 text-warning-orange" />
-                <span className="text-gray-300">info@wastemanagement.com</span>
+                <span className="text-gray-300">ecowaste@gmail.com</span>
               </div>
               <div className="flex items-center space-x-3">
                 <MapPin className="h-4 w-4 text-warning-orange" />
-                <span className="text-gray-300">12345 Locust St, Kansas City, Mo 6542</span>
+                <span className="text-gray-300">xyz</span>
               </div>
             </div>
             
@@ -97,17 +96,6 @@ const Footer = () => {
                 </Button>
               </div>
             </div>
-          </div>
-        </div>
-
-        <Separator className="my-8 bg-eco-green/30" />
-        
-        <div className="flex flex-col md:flex-row justify-between items-center text-sm text-gray-300">
-          <p>&copy; 2024 EcoWaste. All rights reserved.</p>
-          <div className="flex space-x-6 mt-4 md:mt-0">
-            <a href="#" className="hover:text-warning-orange transition-colors">Privacy Policy</a>
-            <a href="#" className="hover:text-warning-orange transition-colors">Terms of Service</a>
-            <a href="#" className="hover:text-warning-orange transition-colors">Cookie Policy</a>
           </div>
         </div>
       </div>
