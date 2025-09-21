@@ -4,6 +4,11 @@
 
 This project aims to address urban waste management challenges through a comprehensive digital solution. Developed during a hackathon, the system facilitates efficient waste collection, segregation, and disposal, promoting sustainability and community participation.
 
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+
 ## Features
 
 - **Accurate Waste Classification**: AI correctly identifies Plastic, Metal, Glass, Organic, Paper with confidence scores. Real-time results via webcam or uploaded images.
