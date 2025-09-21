@@ -14,7 +14,9 @@ This project aims to address urban waste management challenges through a compreh
 ## Website 
 <img width="948" height="488" alt="home_preeti" src="https://github.com/user-attachments/assets/57bbf254-ac5a-48d4-a870-e3736b749944" />
 <img width="878" height="488" alt="complai<img width="620" height="493" alt="pickup_preeti" src="https://github.com/user-attachments/assets/e246a8be-0a33-44a7-99fa-0053ee71572b" />
-nt_preeti" src="https://github.com/user-attachments/assets/2c3414ae-7e99-406c-bc1f-9ac639d9978e" />
+<img width="701" height="462" alt="complaint" src="https://github.com/user-attachments/assets/fcbb278a-80ee-48b4-8c53-401ea9d98282" />
+
+
 
 
 
