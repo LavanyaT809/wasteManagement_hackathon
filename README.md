@@ -11,6 +11,14 @@ This project aims to address urban waste management challenges through a compreh
 - **Community Engagement & Awareness**: Gamification motivates users to segregate properly. Awareness messages and recycling tips educate citizens..
 - **Data-Driven Insights**: Dashboard shows daily, weekly, and type-wise segregation stats. Helps track citizen participation and monitor waste trends in Pune..
 
+## Website 
+<img width="948" height="488" alt="home_preeti" src="https://github.com/user-attachments/assets/57bbf254-ac5a-48d4-a870-e3736b749944" />
+<img width="878" height="488" alt="complai<img width="620" height="493" alt="pickup_preeti" src="https://github.com/user-attachments/assets/e246a8be-0a33-44a7-99fa-0053ee71572b" />
+nt_preeti" src="https://github.com/user-attachments/assets/2c3414ae-7e99-406c-bc1f-9ac639d9978e" />
+
+
+
+
 ## Tech Stack
 
 - **Frontend**: React / HTML, CSS, React for web interface
@@ -22,8 +30,7 @@ This project aims to address urban waste management challenges through a compreh
 
 
 
-## Website 
-<img width="948" height="488" alt="home_preeti" src="https://github.com/user-attachments/assets/57bbf254-ac5a-48d4-a870-e3736b749944" />
+
 
 
 
