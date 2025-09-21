@@ -32,6 +32,12 @@ This project aims to address urban waste management challenges through a compreh
 - **Location & Notifications**:Google Maps API (for location) / SMTP or Twilio (for alerts).
 - **Visualization**:Chart.js / Recharts for dashboards.
 
+## Machine Learning Model
+
+The project uses a pre-trained ML model for garbage classification to assist waste sorting.  
+You can access the trained model here:  
+
+[Trained Garbage Classification Model](https://github.com/truptisonwane0603/GARBAGE-CLASSIFICATION)
 
 
 
